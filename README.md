@@ -8,25 +8,25 @@ Managing large civic or political workforces manually leads to inefficiencies, l
 
 ✨ Key Features
 
-- 🔹 **AI-Based Task Allocation**  
+🔹 **AI-Based Task Allocation**  
   Intelligent assignment of tasks to workers based on availability, location, and priority.
 
-- 🔹 **Real-Time Monitoring**  
+🔹 **Real-Time Monitoring**  
   Track daily activities and workforce performance with live dashboards.
 
-- 🔹 **Geo-Tagged Activity Verification**  
+🔹 **Geo-Tagged Activity Verification**  
   Ensure authenticity of field operations using location-based tracking.
 
-- 🔹 **Performance Analytics**  
+🔹 **Performance Analytics**  
   Generate insights through productivity scoring and performance metrics.
 
-- 🔹 **Booth-Level Heatmaps**  
+🔹 **Booth-Level Heatmaps**  
   Visualize coverage and identify gaps using map-based analytics.
 
-- 🔹 **Structured Communication System**  
+🔹 **Structured Communication System**  
   Enable efficient coordination between admins and field workers.
 
-- 🔹 **Scalable Architecture**  
+🔹 **Scalable Architecture**  
   Supports hierarchical expansion from booth → ward → district → state level.
 
 🏗️ System Architecture
